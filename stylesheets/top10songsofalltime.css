@@ -1,0 +1,78 @@
+.uparrow img {
+  height: 5rem;
+  width: 5rem;
+  border-radius: 100%;
+  background-color: white;
+  position: fixed;
+  right: 3rem;
+  bottom: 3rem;
+}
+
+.container {
+  width: 70rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.songimage {
+  height: 50rem;
+  width: 70rem;
+  object-fit: contain;
+}
+.header {
+  background-color: black;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  text-align: center;
+  height: 100vh;
+  padding-top: 20rem;
+  user-select: none;
+}
+.header h1 {
+  font-size: 10rem;
+}
+.header p {
+  font-size: 5rem;
+}
+
+.musiccontext {
+  font-size: 3rem;
+}
+
+.songs-container {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  margin-bottom: 5rem;
+}
+
+h2 {
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+.link-container {
+  margin-top: 4rem;
+  width: 100%;
+  text-align: center;
+}
+.link:link,
+.link:visited {
+  display: inline-block;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  height: 4.5rem;
+  width: 30rem;
+  padding: 0.8rem;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  border-radius: 2rem;
+  border: 0.3rem solid white;
+  font-size: 2rem;
+}
+.link:hover {
+  background-color: white;
+  color: black;
+}

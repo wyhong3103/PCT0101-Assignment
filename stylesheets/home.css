@@ -1,0 +1,21 @@
+.logo {
+  text-align: center;
+  color: white;
+  background-image: url("/juice.jpg");
+  background-size: cover;
+  width: auto;
+  padding-top: 10vh;
+  height: 100vh;
+}
+
+.logo-header {
+  font-size: 6rem;
+}
+.logo-paragraph {
+  font-size: 3rem;
+  padding-left: 15vw;
+  padding-right: 15vw;
+}
+.logo-element {
+  height: 20rem;
+}
