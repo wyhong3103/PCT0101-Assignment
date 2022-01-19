@@ -2,6 +2,9 @@
 
 Nothing much about this project, we(me and my groupmates) spent a week and two ,working on this.<br>
 
+## To view the site
+https://wyhong3103.github.io/html-assignment/
+
 ## Part Done By Me:
 -The designing part (the parallax scrolling background, I got this idea from one of the CSS tutorial, props to it, I couldn't really remember where I got it from XD, Flex-boxing / grid boxing ,Most of the design part,media queries, Dropdown menu) are mostly done by me, and my teammate helped to fill out some of the informaiton we need!
 
